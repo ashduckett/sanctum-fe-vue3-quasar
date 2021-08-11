@@ -1,4 +1,4 @@
-# sanctum-base-vue3
+# sanctum-base-vue3-quasar
 
 ## Project setup
 ```
